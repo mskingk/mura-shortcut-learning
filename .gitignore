@@ -1,0 +1,7 @@
+MURA-v1.1/
+mura_checkpoints/
+*.pth
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
